@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Minecraft+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Let's+Build+Something+Cool" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Minecraft+Developer;%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%BC%80%E5%8F%91%E8%80%85;Open+Source+Enthusiast;%E5%BC%80%E6%BA%90%E7%83%AD%E7%88%B1%E8%80%85;Always+Learning+New+Things;%E6%B0%B8%E8%BF%9C%E5%AD%A6%E4%B9%A0%E6%96%B0%E4%BA%8B%E7%89%A9;Let's+Build+Something+Cool;%E4%B8%80%E8%B5%B7%E5%81%9A%E7%82%B9%E9%85%B7%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,6 +14,7 @@
   <img src="https://github.com/ShuiMu-Dev.png" width="150" style="border-radius: 50%; border: 3px solid #70A5FD; box-shadow: 0 0 25px #70A5FD;" alt="avatar"/>
   <h3>Hi there, I'm <b>ShuiMu-Dev</b></h3>
   <p>Minecraft Developer | China · 🇨🇳 | Lazy Developer</p>
+  <p><i>流水不争先，争的是滔滔不绝。</i></p>
 </div>
 
 <br/>
