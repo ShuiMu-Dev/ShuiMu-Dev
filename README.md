@@ -75,16 +75,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ShuiMu-Dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
-<br/>
-
-<h2 align="center">Contribution Heatmap</h2>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/70A5FD/ShuiMu-Dev" width="100%" alt="contribution heatmap"/>
-</div>
-
-<br/>
-
 ---
 
 <h2 align="center">Quote of the Day</h2>
