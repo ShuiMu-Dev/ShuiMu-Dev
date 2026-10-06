@@ -76,14 +76,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ShuiMu-Dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
----
-
-<h2 align="center">Quote of the Day</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
 <br/>
 
 <div align="center">
