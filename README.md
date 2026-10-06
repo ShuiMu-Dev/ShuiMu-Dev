@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Minecraft+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Let's+Build+Something+Cool" alt="Typing EN" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Open+Source+Enthusiast;Always+Learning+New+Things;Let's+Build+Something+Cool" alt="Typing EN" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=BF91F3&center=true&vCenter=true&random=false&width=600&lines=%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%BC%80%E5%8F%91%E8%80%85;%E5%BC%80%E6%BA%90%E7%83%AD%E7%88%B1%E8%80%85;%E6%B0%B8%E8%BF%9C%E5%AD%A6%E4%B9%A0%E6%96%B0%E4%BA%8B%E7%89%A9;%E4%B8%80%E8%B5%B7%E5%81%9A%E7%82%B9%E9%85%B7%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="Typing ZH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=BF91F3&center=true&vCenter=true&random=false&width=600&lines=%E5%BC%80%E6%BA%90%E7%83%AD%E7%88%B1%E8%80%85;%E6%B0%B8%E8%BF%9C%E5%AD%A6%E4%B9%A0%E6%96%B0%E4%BA%8B%E7%89%A9;%E4%B8%80%E8%B5%B7%E5%81%9A%E7%82%B9%E9%85%B7%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="Typing ZH" />
 </div>
 
 <br/>
