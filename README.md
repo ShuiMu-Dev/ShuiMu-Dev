@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=ShuiMu-Dev&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Minecraft%20Developer&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=ShuiMu-Dev&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Minecraft%20Developer%0A我的世界开发者&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
@@ -14,6 +14,7 @@
   <img src="https://github.com/ShuiMu-Dev.png" width="150" style="border-radius: 50%; border: 3px solid #70A5FD; box-shadow: 0 0 25px #70A5FD;" alt="avatar"/>
   <h3>Hi there, I'm <b>ShuiMu-Dev</b></h3>
   <p>Minecraft Developer | China · 🇨🇳 | Lazy Developer</p>
+  <p>我的世界开发者 | 中国 · 🇨🇳 | 懒惰的开发者</p>
 </div>
 
 <br/>
