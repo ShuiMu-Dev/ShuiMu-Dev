@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=ShuiMu-Dev&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Minecraft%20Developer%0A%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%BC%80%E5%8F%91%E8%80%85&descAlignY=58&descSize=20" width="100%"/>
 </div>
@@ -96,4 +96,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=150&section=footer&text=Thanks%20for%20visiting&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=68" width="100%"/>
 </div>
-```
