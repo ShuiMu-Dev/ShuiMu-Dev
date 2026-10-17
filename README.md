@@ -41,7 +41,7 @@
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Tech Stack / 技术栈</h2>
 
 <div align="center">
 
@@ -63,7 +63,38 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">Featured Projects / 精选项目</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3>Sexagenary Cycle Generator</h3>
+        <h4>干支纪年生成器</h4>
+        <p>单文件、零依赖的中国干支纪年生成器。一键生成年/月/日三级干支与生肖，支持中英双语切换、明暗主题与移动端。</p>
+        <p><i>A single-file, zero-dependency Chinese Ganzhi date generator. Features EN/ZH toggle, light/dark themes, and mobile responsiveness.</i></p>
+        <a href="https://github.com/ShuiMu-Dev/sexagenary-cycle-generator">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo">
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>Redstone Signal Puzzle</h3>
+        <h4>红石信号解谜</h4>
+        <p>灵感来自《我的世界：地下城》“潮湿洞穴”关卡的单文件网页解谜游戏。内置 BFS 算法随机生成关卡，支持双语与移动端。</p>
+        <p><i>A single-file web-based Redstone puzzle inspired by Minecraft Dungeons. Uses BFS algorithm to generate levels, featuring bilingual support.</i></p>
+        <a href="https://github.com/ShuiMu-Dev/minecraft-dungeons-redstone-signal-puzzle">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">GitHub Stats / GitHub统计</h2>
 
 <!-- ↓↓↓ 下面两个 div 互换位置 ↓↓↓ -->
 
